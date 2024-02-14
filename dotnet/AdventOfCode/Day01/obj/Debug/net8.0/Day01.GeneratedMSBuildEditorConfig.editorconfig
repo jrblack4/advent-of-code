@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Day01
-build_property.ProjectDir = /home/joel/Dev/advent-of-code/dotnet/AdventOfCode/Day01/
+build_property.ProjectDir = /Users/joel/Dev/advent-of-code/dotnet/AdventOfCode/Day01/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

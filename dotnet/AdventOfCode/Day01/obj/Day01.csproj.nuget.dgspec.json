@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/joel/Dev/advent-of-code/dotnet/AdventOfCode/Day01/Day01.csproj": {}
+    "/Users/joel/Dev/advent-of-code/dotnet/AdventOfCode/Day01/Day01.csproj": {}
   },
   "projects": {
-    "/home/joel/Dev/advent-of-code/dotnet/AdventOfCode/Day01/Day01.csproj": {
+    "/Users/joel/Dev/advent-of-code/dotnet/AdventOfCode/Day01/Day01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/joel/Dev/advent-of-code/dotnet/AdventOfCode/Day01/Day01.csproj",
+        "projectUniqueName": "/Users/joel/Dev/advent-of-code/dotnet/AdventOfCode/Day01/Day01.csproj",
         "projectName": "Day01",
-        "projectPath": "/home/joel/Dev/advent-of-code/dotnet/AdventOfCode/Day01/Day01.csproj",
-        "packagesPath": "/home/joel/.nuget/packages/",
-        "outputPath": "/home/joel/Dev/advent-of-code/dotnet/AdventOfCode/Day01/obj/",
+        "projectPath": "/Users/joel/Dev/advent-of-code/dotnet/AdventOfCode/Day01/Day01.csproj",
+        "packagesPath": "/Users/joel/.nuget/packages/",
+        "outputPath": "/Users/joel/Dev/advent-of-code/dotnet/AdventOfCode/Day01/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/joel/.nuget/NuGet/NuGet.Config"
+          "/Users/joel/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/Cellar/dotnet/8.0.1/libexec/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

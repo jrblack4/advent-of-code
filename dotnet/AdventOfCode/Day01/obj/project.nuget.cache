@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "f+W4Ep5GcJp+NBsOUNBuhYlGPzXeAetb/FtRYoTvzPKI7zHd0rVvessZEg1bZoo6TwlwpvK8hVFGt15jDMpShw==",
+  "dgSpecHash": "S1cw7wL93ivMgVE20MHjBbZVEkv/Ggz08kLUFREzmekrZOAaVnxav2QO79LjNVYjKK9uT0Mz57UU3T6LNIqKqA==",
   "success": true,
-  "projectFilePath": "/home/joel/Dev/advent-of-code/dotnet/AdventOfCode/Day01/Day01.csproj",
+  "projectFilePath": "/Users/joel/Dev/advent-of-code/dotnet/AdventOfCode/Day01/Day01.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
